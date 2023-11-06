@@ -1,4 +1,4 @@
-# ca1-marketingco
+# ca1
 
 # Horiseon Digital Marketing Company | Challenge Assignment 1
 
