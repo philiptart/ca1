@@ -7,7 +7,7 @@ Refactoring provided html/css pages to meet semantic HTML 5.0, accessibility, lo
 ## GitLab Repository
 
 ```bash
-git@github.com:philiptart/ca1-marketingco.git
+git@github.com:philiptart/ca1.git
 ```
 ## Online Location
 
